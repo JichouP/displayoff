@@ -1,4 +1,4 @@
-use winapi::{HWND_NOTOPMOST, HWND_TOPMOST, HWND__};
+use winapi::HWND_TOPMOST;
 
 extern crate user32;
 extern crate winapi;
